@@ -1,0 +1,8 @@
+F:\Projects\Git\empowerdinh\src\Empower.NHibernate.Helpers\bin\Debug\netcoreapp2.0\Empower.NhDi.Helpers.deps.json
+F:\Projects\Git\empowerdinh\src\Empower.NHibernate.Helpers\bin\Debug\netcoreapp2.0\Empower.NhDi.Helpers.dll
+F:\Projects\Git\empowerdinh\src\Empower.NHibernate.Helpers\obj\Debug\netcoreapp2.0\Empower.NhDi.Helpers.csproj.CoreCompileInputs.cache
+F:\Projects\Git\empowerdinh\src\Empower.NHibernate.Helpers\obj\Debug\netcoreapp2.0\Empower.NhDi.Helpers.AssemblyInfoInputs.cache
+F:\Projects\Git\empowerdinh\src\Empower.NHibernate.Helpers\obj\Debug\netcoreapp2.0\Empower.NhDi.Helpers.AssemblyInfo.cs
+F:\Projects\Git\empowerdinh\src\Empower.NHibernate.Helpers\bin\Debug\netcoreapp2.0\Empower.NhDi.Helpers.pdb
+F:\Projects\Git\empowerdinh\src\Empower.NHibernate.Helpers\obj\Debug\netcoreapp2.0\Empower.NhDi.Helpers.dll
+F:\Projects\Git\empowerdinh\src\Empower.NHibernate.Helpers\obj\Debug\netcoreapp2.0\Empower.NhDi.Helpers.pdb

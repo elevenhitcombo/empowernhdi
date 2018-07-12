@@ -1,0 +1,8 @@
+F:\Projects\Git\empowerdinh\src\Empower.NhDi.Entities\bin\Debug\netcoreapp2.0\Empower.NhDi.Entities.deps.json
+F:\Projects\Git\empowerdinh\src\Empower.NhDi.Entities\bin\Debug\netcoreapp2.0\Empower.NhDi.Entities.dll
+F:\Projects\Git\empowerdinh\src\Empower.NhDi.Entities\obj\Debug\netcoreapp2.0\Empower.NhDi.Entities.csproj.CoreCompileInputs.cache
+F:\Projects\Git\empowerdinh\src\Empower.NhDi.Entities\obj\Debug\netcoreapp2.0\Empower.NhDi.Entities.AssemblyInfoInputs.cache
+F:\Projects\Git\empowerdinh\src\Empower.NhDi.Entities\obj\Debug\netcoreapp2.0\Empower.NhDi.Entities.AssemblyInfo.cs
+F:\Projects\Git\empowerdinh\src\Empower.NhDi.Entities\bin\Debug\netcoreapp2.0\Empower.NhDi.Entities.pdb
+F:\Projects\Git\empowerdinh\src\Empower.NhDi.Entities\obj\Debug\netcoreapp2.0\Empower.NhDi.Entities.dll
+F:\Projects\Git\empowerdinh\src\Empower.NhDi.Entities\obj\Debug\netcoreapp2.0\Empower.NhDi.Entities.pdb
