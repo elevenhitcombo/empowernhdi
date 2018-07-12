@@ -11,7 +11,8 @@ namespace Empower.NhDi.Mvc.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index(ISession session)
+     
+        public IActionResult Index()
         {
             return View();
         }
